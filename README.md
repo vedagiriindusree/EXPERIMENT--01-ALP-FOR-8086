@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-# Name : VEDAGIRI INDU SREE
-# Roll no : 212223230236
-# Date of experiment : 22/08/2025
+## Name : VEDAGIRI INDU SREE
+## Roll no : 212223230236
+## Date of experiment : 22/08/2025
 ## Aim: To Write and execute ALP on fundamental arithmetic and logical operations
 ## Components required: 8086  emulator 
 ## Theory 
